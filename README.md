@@ -1,6 +1,6 @@
 # Čau, já jsem LadSec
 
- ITák, kterej si dávno řekl, že makat tvrdě je pro otroky – makat chytře je cesta.  
+ITák, kterej si dávno řekl, že nemá cenu makat tvrdě – makat chytře je cesta.  
 Automatizuju rutinu, píšu vlastní PowerShell skripty, a čím dál víc se nořím do světa bezpečnosti.
 
 ##  Co dělám a proč
