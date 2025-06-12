@@ -1,16 +1,30 @@
-## Hi there 👋
+# Čau, já jsem LadSec
 
-<!--
-**ladsec/ladsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ITák, kterej si dávno řekl, že makat tvrdě je pro otroky – makat chytře je cesta.  
+Automatizuju rutinu, píšu vlastní PowerShell skripty, a čím dál víc se nořím do světa bezpečnosti.
 
-Here are some ideas to get you started:
+##  Co dělám a proč
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  Zjednodušuju si práci – vytvářím PowerShell nástroje pro automatizaci a usnadnění každodenního IT života
+-  Stavím vlastní laby pro testování bezpečnostních scénářů (Kali + Metasploitable2)
+-  Trénuju zneužívání zranitelností pomocí Metasploit, nmap, enum nástrojů atd.
+-  Učím se privilege escalation techniky, práci s právama a systémovou chybovostí
+-  Průběžně přidávám vlastní skripty (Bash/Python), co mi šetří čas nebo pomáhaj s enumerací
+
+##  Na co tu brzo narazíš
+
+- `powershell-scripts` – moje nástroje pro Windows/AD/IT rutinu
+- `ctf-writeups` – postupy z labů a CTF boxů
+- `linux-privesc-lab` – scénáře a poznámky z tréninku eskalace práv
+- `tools` – univerzální bash/python utility pro různý fáze "práce"
+- `training-log` – progres log, nástroje, tipy, postřehy
+
+##  Můj směr
+
+Přestává mě bavit klikat podle manuálu.  
+Skriptuju, testuju, hledám slabiny.  
+Ne pro zábavu – ale protože vím, že tohle je skill, co má smysl.
+
+---
+
+„Nemusíš se zbytečně zdržovat opakovanou prací, když ji můžeš jednou automatizovat skriptem.“
