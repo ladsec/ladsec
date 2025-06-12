@@ -6,7 +6,7 @@ Automatizuju rutinu, píšu vlastní PowerShell skripty, a čím dál víc se no
 ##  Co dělám a proč
 
 -  Zjednodušuju si práci – vytvářím PowerShell nástroje pro automatizaci a usnadnění každodenního IT života
--  Stavím vlastní laby pro testování bezpečnostních scénářů (Kali + Metasploitable2)
+-  Stavím vlastní laby pro testování bezpečnostních scénářů (Kali, Metasploitable2 + Windows)
 -  Trénuju zneužívání zranitelností pomocí Metasploit, nmap, enum nástrojů atd.
 -  Učím se privilege escalation techniky, práci s právama a systémovou chybovostí
 -  Průběžně přidávám vlastní skripty (Bash/Python), co mi šetří čas nebo pomáhaj s enumerací
@@ -27,4 +27,4 @@ Ne pro zábavu – ale protože vím, že tohle je skill, co má smysl.
 
 ---
 
-„Nemusíš se zbytečně zdržovat opakovanou prací, když ji můžeš jednou automatizovat skriptem.“
+„Nemusíš se zbytečně zdržovat opakovanou prací, když ji můžeš automatizovat skriptem.“
